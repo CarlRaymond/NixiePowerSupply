@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IRF644
+D 250V Vds, 14A Id, 10V Vgs N-Channel MOSFET, TO-220AB
+K N-Channel Power MOSFET 
+F http://www.vishay.com/docs/91039/sihf644.pdf
+$ENDCMP
+#
 #End Doc Library
