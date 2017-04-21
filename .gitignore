@@ -19,3 +19,10 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerber files
+*.gbl
+*.gbo
+*.gm1
+*.gtl
+*.gto
