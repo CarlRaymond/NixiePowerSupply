@@ -1,4 +1,4 @@
-(module BARREL_JACK (layer F.Cu) (tedit 590E7BEF)
+(module BARREL_JACK_ROUND_HOLES (layer F.Cu) (tedit 590E7BEF)
   (descr "DC Barrel Jack")
   (tags "Power Jack")
   (fp_text reference J1 (at -8.45 5.75 180) (layer F.SilkS)
